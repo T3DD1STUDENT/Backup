@@ -1,0 +1,182 @@
+[
+    {
+        "TransactionID": "Trx-0001",
+        "Category": "Tablet",
+        "Amount": 101.61,
+        "Quantity": 3,
+        "City": "Dallas",
+        "Is_onlinePurchase": true,
+        "Rating": 3
+    },
+    {
+        "TransactionID": "Trx-0002",
+        "Category": "Books",
+        "Amount": 392.9,
+        "Quantity": 4,
+        "City": "San Antonio",
+        "Is_onlinePurchase": false,
+        "Rating": 4
+    },
+    {
+        "TransactionID": "Trx-0003",
+        "Category": "Smartphone",
+        "Amount": 173.95,
+        "Quantity": 7,
+        "City": "Philadelphia",
+        "Is_onlinePurchase": false,
+        "Rating": 3
+    },
+    {
+        "TransactionID": "Trx-0004",
+        "Category": "Toys",
+        "Amount": 174.6,
+        "Quantity": 10,
+        "City": "Houston",
+        "Is_onlinePurchase": false,
+        "Rating": 3
+    },
+    {
+        "TransactionID": "Trx-0005",
+        "Category": "Shoes",
+        "Amount": 172.76,
+        "Quantity": 7,
+        "City": "Philadelphia",
+        "Is_onlinePurchase": false,
+        "Rating": 2
+    },
+    {
+        "TransactionID": "Trx-0006",
+        "Category": "Books",
+        "Amount": 397.24,
+        "Quantity": 7,
+        "City": "Chicago",
+        "Is_onlinePurchase": false,
+        "Rating": 2
+    },
+    {
+        "TransactionID": "Trx-0007",
+        "Category": "Books",
+        "Amount": 175.59,
+        "Quantity": 4,
+        "City": "New York",
+        "Is_onlinePurchase": true,
+        "Rating": 4
+    },
+    {
+        "TransactionID": "Trx-0008",
+        "Category": "Smartwatch",
+        "Amount": 434.17,
+        "Quantity": 5,
+        "City": "New York",
+        "Is_onlinePurchase": false,
+        "Rating": 2
+    },
+    {
+        "TransactionID": "Trx-0009",
+        "Category": "Headphones",
+        "Amount": 378.64,
+        "Quantity": 9,
+        "City": "Houston",
+        "Is_onlinePurchase": false,
+        "Rating": 2
+    },
+    {
+        "TransactionID": "Trx-0010",
+        "Category": "Headphones",
+        "Amount": 149.99,
+        "Quantity": 5,
+        "City": "San Jose",
+        "Is_onlinePurchase": false,
+        "Rating": 5
+    },
+    {
+        "TransactionID": "Trx-0011",
+        "Category": "Furniture",
+        "Amount": 52.19,
+        "Quantity": 4,
+        "City": "Phoenix",
+        "Is_onlinePurchase": false,
+        "Rating": 1
+    },
+    {
+        "TransactionID": "Trx-0012",
+        "Category": "Tablet",
+        "Amount": 484.99,
+        "Quantity": 9,
+        "City": "Philadelphia",
+        "Is_onlinePurchase": true,
+        "Rating": 4
+    },
+    {
+        "TransactionID": "Trx-0013",
+        "Category": "Books",
+        "Amount": 310.59,
+        "Quantity": 6,
+        "City": "Chicago",
+        "Is_onlinePurchase": true,
+        "Rating": 3
+    },
+    {
+        "TransactionID": "Trx-0014",
+        "Category": "Furniture",
+        "Amount": 481.37,
+        "Quantity": 9,
+        "City": "San Antonio",
+        "Is_onlinePurchase": true,
+        "Rating": 2
+    },
+    {
+        "TransactionID": "Trx-0015",
+        "Category": "Tablet",
+        "Amount": 220.89,
+        "Quantity": 7,
+        "City": "Phoenix",
+        "Is_onlinePurchase": false,
+        "Rating": 2
+    },
+    {
+        "TransactionID": "Trx-0016",
+        "Category": "Books",
+        "Amount": 381.34,
+        "Quantity": 10,
+        "City": "Philadelphia",
+        "Is_onlinePurchase": false,
+        "Rating": 3
+    },
+    {
+        "TransactionID": "Trx-0017",
+        "Category": "Laptop",
+        "Amount": 276.84,
+        "Quantity": 1,
+        "City": "Philadelphia",
+        "Is_onlinePurchase": false,
+        "Rating": 2
+    },
+    {
+        "TransactionID": "Trx-0018",
+        "Category": "Shoes",
+        "Amount": 340.35,
+        "Quantity": 8,
+        "City": "San Jose",
+        "Is_onlinePurchase": false,
+        "Rating": 1
+    },
+    {
+        "TransactionID": "Trx-0019",
+        "Category": "Tablet",
+        "Amount": 211.74,
+        "Quantity": 7,
+        "City": "Houston",
+        "Is_onlinePurchase": true,
+        "Rating": 1
+    },
+    {
+        "TransactionID": "Trx-0020",
+        "Category": "Clothing",
+        "Amount": 489.15,
+        "Quantity": 4,
+        "City": "Los Angeles",
+        "Is_onlinePurchase": true,
+        "Rating": 2
+    }
+]

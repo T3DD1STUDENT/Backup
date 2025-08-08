@@ -1,0 +1,7 @@
+line1		8		line3
+
+lines1	7
+hello world
+Goodbye world
+Buy ted phone now on www.tedshop.com
+skip
